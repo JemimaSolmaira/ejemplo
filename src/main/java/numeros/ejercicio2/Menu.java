@@ -18,6 +18,7 @@ public class Menu {
     + "\n4. Eliminar producto"
     + "\n5. Salir"
     + "\n6. no hacer nada"
+    + "repositorio prueba"        
                     
     ));
     Procesos p = new Procesos();
